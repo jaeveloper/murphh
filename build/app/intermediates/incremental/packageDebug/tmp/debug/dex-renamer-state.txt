@@ -1,0 +1,4 @@
+#Wed Dec 11 08:17:35 WAT 2019
+base.0=C\:\\Users\\HP\\murphh\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
